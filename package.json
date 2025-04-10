@@ -1,0 +1,21 @@
+{
+    "name": "kubernetes-icons",
+    "version": "1.0.1",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "files": [
+        "package.json",
+        "readme.md",
+        ".gitignore",
+        ".gitmodules",
+        "k8s-community/icons/png/*",
+        "k8s-community/icons/svg/*"
+    ],
+    "exports": {
+        "./svg/": "./k8s-community/icons/svg/*",
+        "./png/": "./k8s-community/icons/png/*"
+    }
+}
