@@ -1,9 +1,10 @@
 {
     "name": "kubernetes-icons",
-    "version": "1.0.1",
-    "description": "",
+    "version": "1.0.2",
+    "description": "Wrapper package for official kubernetes icons",
     "keywords": [],
     "author": "",
+    "repository": "github:ulrich-barnstedt/kubernetes-icons",
     "license": "ISC",
     "type": "module",
     "files": [
