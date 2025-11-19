@@ -8,12 +8,12 @@
     "license": "ISC",
     "type": "module",
     "files": [
-        "package.json",
-        "readme.md",
-        ".gitignore",
-        ".gitmodules",
-        "k8s-community/icons/png/*",
-        "k8s-community/icons/svg/*"
+        "./package.json",
+        "./readme.md",
+        "./.gitignore",
+        "./.gitmodules",
+        "./k8s-community/icons/png/*",
+        "./k8s-community/icons/svg/*"
     ],
     "exports": {
         "./svg/": "./k8s-community/icons/svg/*",
